@@ -1,0 +1,9 @@
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env.*
+
+# //here which file I dont do to implement prettier here like we do environment variable I don't want to implemet prettier, so I want as it is
